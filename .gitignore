@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Output data
+output/
+
+data/
+
